@@ -84,4 +84,4 @@ O aplicativo abrirá uma janela para você começar a adicionar e gerenciar suas
 
 ## Suporte e contribuições
 
-Se encontrar problemas ou quiser melhorias, sinta-se à vontade para abrir uma issue, enviar um pull request no GitHub, ou simplesmente entrar em contato através de uma das minhas redes sociais disponíveis no GitHub!
+Se encontrar problemas ou quiser melhorias, sinta-se à vontade para abrir uma issue, enviar um pull request no GitHub, ou simplesmente entrar em contato através de uma das minhas redes sociais disponíveis aqui no GitHub!
